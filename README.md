@@ -2,4 +2,5 @@
 
 ## Summary
 
-This repository contains all of the notes taken by Sarah for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Sarah](https://github.com/sjreive) for the Lighthouse Labs Web Development Bootcamp.
+
